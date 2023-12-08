@@ -1,0 +1,21 @@
+.feild{
+    width: 100%;
+}
+.card{
+    width: 40%;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 20px;
+}
+.container{
+    margin-top: 10px;
+}
+.card{
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+.card button{
+    margin: 5px;
+}
